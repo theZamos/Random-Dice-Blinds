@@ -12,6 +12,7 @@ AltTexture({
     set = 'Blind',
     path = 'randomdice_blinds.png',
     frames = 21,
+    display_pos = 'bl_final_leaf',
     loc_txt = {
         name = 'Random Dice Blinds'
     }
